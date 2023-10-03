@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "58uMOptjCqlCuFDt4e9DMUkdA3/vTk57lCA63c51wh+oywanR/SMcu62QwhBZxPgBfLOAwkxyX2zBCTOYr1bGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gorgo\\OneDrive\\Desktop\\Study This\\C#\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorgo\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\gorgo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
