@@ -15,9 +15,9 @@ namespace Schwans_ProcesX12850SpreadsheetTest
             Parameters myParameters = new Parameters
             {
                 // Set your parameter values here
-                EncompassID = "YourEncompassID",
-                EncompassSessionID = "YourEncompassSessionID",
-                EncompassDBServer = "YourEncompassDBServer",
+                EncompassID = "ErpID",
+                EncompassSessionID = "ErpSessionID",
+                EncompassDBServer = "ErpDBServer",
                 Email = "YourEmail",
             };
 
@@ -316,7 +316,7 @@ namespace Schwans_ProcesX12850SpreadsheetTest
 
     private void SendHttpPostRequest(MemoryStream csvMemoryStream)
     {
-        string apiUrl = "https://webhook.site/2d271ab1-61c9-4dc0-8b87-0280c2192b11";
+        string apiUrl = "https://webhook.site/8a6901d6-3843-486c-b9b4-c34af2c9f6a1";
 
         using (HttpClient client = new HttpClient())
         {
